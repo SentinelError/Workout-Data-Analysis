@@ -1,4 +1,4 @@
-# Title: Analyzing Workout Data
+# Analyzing Workout Data
 
 ## Description
 Analyzing workout data involves examining the step count recorded in a health log. The goal of this project is to develop a function that identifies the longest streak of consecutive days with a given number of steps. This function will determine the start and end dates of the longest streak.
